@@ -4,4 +4,4 @@ def predict_label(value):
 
 
 if __name__ == "__main__":
-    print("Prediction:", predict_label(0.8))
+    print("Prediction result:", predict_label(0.8))
